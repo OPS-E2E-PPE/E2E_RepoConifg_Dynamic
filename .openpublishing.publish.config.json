@@ -1,6 +1,4 @@
 {
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "E2E_RepoConifg_Dynamic",
@@ -18,12 +16,32 @@
       "build_entry_point": "docs",
       "template_folder": "_themes",
       "version": 0
+    },
+    {
+      "docset_name": "testFolder",
+      "build_source_folder": "testFolder",
+      "build_output_subfolder": "testFolder",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": [
+    "filterBranch"
+  ],
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
+  "need_pr_comments": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -32,5 +50,14 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "branch_target_mapping": {
+    "branchMapping": [
+      "Publish",
+      "PDF",
+      "IntelliSense"
+    ]
+  },
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
