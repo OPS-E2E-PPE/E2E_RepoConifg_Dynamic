@@ -20,7 +20,7 @@
     {
       "docset_name": "testFolder",
       "build_source_folder": "testFolder",
-      "build_output_subfolder": "testFolder",
+      "build_output_subfolder": "E2E_RepoConifg_Dynamic",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
