@@ -26,6 +26,12 @@
   "need_preview_pull_request": false,
   "dependent_repositories": [
     {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master-prerelease",
+      "branch_mapping": {}
+    },
+    {
       "path_to_root": "E2E_RepoConifg_Dynamic/image",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic/image",
       "branch": "crr-multiple"
