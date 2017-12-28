@@ -33,7 +33,7 @@
     },
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/test",
-      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
+      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic_notExists",
       "branch": "crr-e2e",
       "branch_mapping": {
         "crr-test" : "crr-e2e"
