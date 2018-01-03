@@ -42,7 +42,7 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "need_pr_comments": false,
-  "report_severity_leve": "Error",
+  "report_severity_leve": "Warning",
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
