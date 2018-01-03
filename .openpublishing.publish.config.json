@@ -42,6 +42,11 @@
       "branch": "crr-multiple"
     },
     {
+      "path_to_root": "E2E_RepoConifg_Dynamic/article",
+      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
+      "branch": "crr-multiple"
+    },
+    {
       "path_to_root": "E2E_RepoConifg_Dynamic/token",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
       "branch": "crr-notExist",
