@@ -5,7 +5,7 @@
       "build_source_folder": "E2E_RepoConifg_Dynamic",
       "build_output_subfolder": "E2E_RepoConifg_Dynamic",
       "locale": "en-us",
-      "monikers": [],
+      "monikers": ["abc"],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
@@ -42,7 +42,7 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "need_pr_comments": false,
-  "package_version": "sss",
+  "report_severity_leve": "Error",
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
