@@ -26,7 +26,9 @@
           "**/obj/**",
           "**/includes/**",
           "E2E_RepoConifg_Dynamic/image/**",
-          "E2E_RepoConifg_Dynamic/token/**"
+          "E2E_RepoConifg_Dynamic/token/**",
+          "E2E_RepoConifg_Dynamic/code/**",
+          "E2E_RepoConifg_Dynamic/article/**"
         ]
       }
     ],
