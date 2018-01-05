@@ -13,7 +13,8 @@
           "LICENSE-CODE",
           "ThirdPartyNotices",
           "test/README.md",
-          "E2E_RepoConifg_Dynamic/**"
+          "token/**",
+          "image/**"
         ]
       }
     ],
