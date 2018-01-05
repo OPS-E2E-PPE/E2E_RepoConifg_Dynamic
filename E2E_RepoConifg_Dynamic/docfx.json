@@ -14,7 +14,9 @@
           "ThirdPartyNotices",
           "test/README.md",
           "token/**",
-          "image/**"
+          "image/**",
+          "code/**",
+          "article/**"
         ]
       }
     ],
