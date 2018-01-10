@@ -32,17 +32,7 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "E2E_RepoConifg_Dynamic/code",
-      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-change"
-    },
-    {
-      "path_to_root": "E2E_RepoConifg_Dynamic/article",
-      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-change"
-    },
-    {
-      "path_to_root": "E2E_RepoConifg_Dynamic/token",
+      "path_to_root": "E2E_RepoConifg_Dynamic/test",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
       "branch": "crr-change"
     }
