@@ -12,9 +12,7 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices",
-          "test/README.md",
-          "token/**",
-          "article/**"
+          "test/**"
         ]
       }
     ],
