@@ -1,1 +1,1 @@
-[!include[Include article](article/e2e_docsbranch_dynamic/test/changeArticle.md)]
+[!include[Include article](test/e2e_docsbranch_dynamic/changeArticle.md)]
