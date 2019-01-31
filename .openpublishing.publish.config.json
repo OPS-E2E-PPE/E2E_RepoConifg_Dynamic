@@ -34,7 +34,7 @@
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/test",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-multiple"
+      "branch": "crr-change"
     }
   ],
   "need_generate_pdf_url_template": false
