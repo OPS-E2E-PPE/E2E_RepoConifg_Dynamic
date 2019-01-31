@@ -11,11 +11,7 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices",
-          "token/**",
-          "image/**",
-          "code/**",
-          "article/**"
+          "ThirdPartyNotices"
         ]
       }
     ],
