@@ -53,6 +53,7 @@
   "branch_target_mapping": {
     "branchMapping": [
       "Publish",
+      "Pdf",
       "IntelliSense"
     ]
   },
