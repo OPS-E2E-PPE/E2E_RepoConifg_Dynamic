@@ -1,7 +1,7 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_RepoConifg_Dynamic",
+      "docset_name": "nonexistdocset",
       "build_source_folder": "E2E_RepoConifg_Dynamic",
       "build_output_subfolder": "E2E_RepoConifg_Dynamic",
       "locale": "en-us",
