@@ -34,22 +34,22 @@
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/image",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-multiple"
+      "branch": "container-crr-multiple"
     },
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/code",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-multiple"
+      "branch": "container-crr-multiple"
     },
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/article",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-multiple"
+      "branch": "container-crr-multiple"
     },
     {
       "path_to_root": "E2E_RepoConifg_Dynamic/token",
       "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
-      "branch": "crr-multiple"
+      "branch": "container-crr-multiple"
     }
   ],
   "need_generate_pdf_url_template": false
